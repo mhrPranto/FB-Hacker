@@ -12,7 +12,7 @@ import random
 email = str(raw_input("Enter the Facebook Username (or) Email (or) Phone Number : "))
 
 
-passwordlist = str(raw_input("Write start.txt : "))
+passwordlist = str(raw_input("Type start.txt : "))
 
 
 login = 'https://www.facebook.com/login.php?login_attempt=1'
